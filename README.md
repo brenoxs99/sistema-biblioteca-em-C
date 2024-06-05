@@ -1,4 +1,6 @@
 # Sistema de Biblioteca em C
 
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+Este é um {c:#B81365}texto colorido com hexadecimal{/c} 
+
+<!--https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown/#open-->
