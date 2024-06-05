@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ISTEMA DE BIBLIOTECA
 
 Bem-vindo ao meu projeto.
@@ -23,3 +24,11 @@ Siga as instruções para utilizar este projeto.
 Contribuições são bem-vindas!
 
 <span style="color: purple;">Este texto está em roxo.</span>
+=======
+# Sistema de Biblioteca em C
+
+
+Este é um {c:#B81365}texto colorido com hexadecimal{/c} 
+
+<!--https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown/#open-->
+>>>>>>> 9b4bdc26c59514d8c89f578b3facbe3a1716380c
