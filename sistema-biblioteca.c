@@ -40,7 +40,7 @@ No* cadastrar_livro(No* lista){
 	No* novo = (No *)malloc(sizeof(No));
 	
 	if(novo==NULL){
-		printf("\n\tERRO AO EXECUTAR ESTA FUNÇÃO! \n  (memortia insuficiente!)");
+		printf("\n\tERRO AO EXECUTAR ESTA FUNCAO! \n  (memortia insuficiente!)");
 	}else{
 		insere_livro(novo, lista);
 	}
