@@ -1,1 +1,1 @@
-ECHO est  ativado.
+# Sistema de Biblioteca em C
